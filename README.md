@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Nevil Ndubi - [Github](https://github.com/nevilndubi) / [Twitter](https://twitter.com/nevil_ndubi)  
-Jennifer Huang - [Github](https://github.com/dzabeligan) / [Twitter](https://twitter.com/dzabeligan)
+Elijah Balogun - [Github](https://github.com/dzabeligan) / [Twitter](https://twitter.com/dzabeligan)
 
 Second part of Airbnb: Joann Vuong
 ## License
